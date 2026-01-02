@@ -127,6 +127,6 @@ This tool has been deployed using [`Streamlit`](https://streamlit.io/). Learn ab
 
 ## :balance_scale: License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ARYAN-ATUL25/Telecom-Churn-Analysis-on-Streamlit/blob/main/LICENSE) file for details.
 
 
